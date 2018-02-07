@@ -1,6 +1,6 @@
 this file is created in develop1
 a=10
-b=20
+b=30
 echo "Addition of A nd B"
 c='expr $a+$b
 echo "the result of c is $c"
